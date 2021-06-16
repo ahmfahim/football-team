@@ -1,0 +1,53 @@
+.header-image img{
+    width:100%;
+    height:200px;
+    margin-top: 10px;
+    padding:10px;
+}
+.header-image {
+    background:#6600ff;
+    box-shadow: 1px 2px 4px gray;
+
+}
+.header-title h1{
+    color: #6600ff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 2px 4px gray;
+}
+.nav-logo{
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    margin-right: 20px;
+}
+.nav-logo span{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+sup{
+    color: red;
+    font-size: 25px;
+}
+.player-cost{
+    font-size:18px;
+    margin-top: -20px;
+    margin-right: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0px;
+}
+.player-cost span{
+    color: red;
+}
+.player-name div{
+    background:#fff;
+    box-shadow: 1px 1px 3px gray;
+    width:300px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 30px;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
